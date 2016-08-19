@@ -4,8 +4,8 @@
 public class HelloWorld {
 
     public void method1(String X){
-        System.out.println("Hello from Hello World" + X);
-        System.out.println("Hello from Hello Wrld" + X + X);
+        System.out.println("Hell0 from Hell0 World" + X);
+        System.out.println("Hell0 from Hell0 W0rld" + X + X);
 
     }
 }
